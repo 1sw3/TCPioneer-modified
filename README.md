@@ -10,7 +10,7 @@ run install.bat to install the service
 
 ## Flags
 ```
- -conf string
+  -conf string
         Specifying the config (default "default.conf")
   -install
         Install service
