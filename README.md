@@ -8,6 +8,28 @@ run tcpioneer.exe to start the program
 ## Run as Service
 run install.bat to install the service
 
+## Flags
+```
+ -conf string
+        Specifying the config (default "default.conf")
+  -install
+        Install service
+  -remove
+        Remove service
+  -scanip string
+        Scan IP Range
+  -scanspeed int
+        Scan Speed (default 1)
+  -scantimeout uint
+        Scan Timeout
+  -scanurl string
+        Scan URL
+  -start
+        Start service
+  -stop
+        Stop service
+```
+
 ## How to configure
 ```
   server=IP:Port    #domain in config will use this DNS(DNSoverTCP),if not set it will use the DNS of system
