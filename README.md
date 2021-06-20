@@ -1,5 +1,5 @@
 # TCPioneer-with-modifications
-TCPioneer is a program for Windows that protects the TCP connections from being interfered. This repo is my personal modification, to not pollute the code of others, I chose to copy the code to my own repo.
+TCPioneer is a program for Windows that protects the TCP connections from being interfered. This repo is my personal modification, to not pollute the code of others, I choose to copy the code to my own repo.
   
 for other platforms:**[phantomsocks](https://github.com/Macronut/phantomsocks)**
 
