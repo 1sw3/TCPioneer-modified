@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"./header"
+	"TCPioneer-modified/header"
 	"github.com/chai2010/winsvc"
 )
 
