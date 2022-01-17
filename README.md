@@ -5,11 +5,11 @@ original TCPioneer: **[TCPioneer](https://github.com/Macronut/tcpioneer)**
 
 for other platforms: **[phantomsocks](https://github.com/Macronut/phantomsocks)**
 
-## Run as Client
-run tcpioneer.exe to start the program
-## Run as Service
-run install.bat to install the service
+## Building
+Simply git clone the repo and then `` go build ``
 
+## Caution
+No **WinDivert.dll** included, please download it from https://github.com/basil00/Divert/releases/tag/v2.2.0, after downloading, please move **WinDivert.dll** to the folder where the compiled executable is located.
 ## Flags
 ```
   -conf string
