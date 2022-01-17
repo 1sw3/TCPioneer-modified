@@ -1,4 +1,4 @@
-module github.com/1sw3/TCPioneer-modified
+module github.com/1sw3/TCPioneer-1sw3prop
 
 go 1.16
 
